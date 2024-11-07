@@ -1,0 +1,4 @@
+1 Vous allez développer un programme Java qui gère la lecture et
+2 l'écriture dans un fichier texte. L'objectif est de manipuler
+3 les fichiers à l'aide de l'API classique (java.io) et de gérer
+4 correctement les exceptions liées aux opérations I/O.

@@ -1,0 +1,4 @@
+Vous allez développer un programme Java qui gère la lecture et
+l'écriture dans un fichier texte. L'objectif est de manipuler
+les fichiers à l'aide de l'API classique (java.io) et de gérer
+correctement les exceptions liées aux opérations I/O.
